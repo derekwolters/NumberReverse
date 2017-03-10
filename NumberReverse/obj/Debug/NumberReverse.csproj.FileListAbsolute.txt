@@ -1,0 +1,6 @@
+c:\users\derek\documents\visual studio 2015\Projects\NumberReverse\NumberReverse\bin\Debug\NumberReverse.exe.config
+c:\users\derek\documents\visual studio 2015\Projects\NumberReverse\NumberReverse\obj\Debug\NumberReverse.csprojResolveAssemblyReference.cache
+c:\users\derek\documents\visual studio 2015\Projects\NumberReverse\NumberReverse\bin\Debug\NumberReverse.exe
+c:\users\derek\documents\visual studio 2015\Projects\NumberReverse\NumberReverse\bin\Debug\NumberReverse.pdb
+c:\users\derek\documents\visual studio 2015\Projects\NumberReverse\NumberReverse\obj\Debug\NumberReverse.exe
+c:\users\derek\documents\visual studio 2015\Projects\NumberReverse\NumberReverse\obj\Debug\NumberReverse.pdb
